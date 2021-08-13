@@ -1,4 +1,4 @@
-api_key = "c631ceb140e5de617fa39dc05bffd612"
+api_key = "your key from openweather"
 city = "Sydney"
 url = "http://api.openweathermap.org/data/2.5/weather?q="+city+"&appid="+api_key+"&units=metric"
 
