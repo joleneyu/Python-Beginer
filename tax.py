@@ -1,4 +1,4 @@
-amount=200
-tax=.06
-total=amount + amount*tax
+amount = 100
+tax = .06
+total = amount + amount*tax
 print(total)
